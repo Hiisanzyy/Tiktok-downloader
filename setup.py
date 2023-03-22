@@ -9,9 +9,9 @@ setup(
   version='0.1.6',
   license='MIT',
   description='Tiktok Downloader&Scraper using bs4&requests',
-  author='Krypton Byte',
-  author_email='galaxyvplus6434@gmail.com',
-  url='https://github.com/krypton-byte/tiktok_downloader',
+  author='Sanzy Dev',
+  author_email='hiisanzy@gmail.com',
+  url='https://tiktok.sanzy.my.id',
   keywords=[
     'tiktok',
     'downloader',
